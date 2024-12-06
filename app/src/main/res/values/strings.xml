@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ReversePolishNotationCalculator</string>
+    <string name="calculator_title">Reverse Polish Notation Calculator</string>
+    <string name="calculator_subtitle">by Sam Christiansen</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="space">Space</string>
+    <string name="backspace">Backspace</string>
+    <string name="enter">Enter</string>
+    <string name="clear">AC</string>
+    <string name="plus">+</string>
+    <string name="minus">\u2014</string>
+    <string name="times">*</string>
+    <string name="divide">/</string>
+</resources>
